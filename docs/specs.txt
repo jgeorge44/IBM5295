@@ -1,0 +1,34 @@
+
+CPU: 80186 @ 20MHz
+RAM: 512KB Main memory (18 41256C-12 chips)
+Unknown memory: 64 kbit x 13 bits (3xTMM41464AP-12 and 1xMN4164P-12A chips)
+Video: HD46505SP-2 1024x768 monochrome video
+Video RAM: 6KB (3x 2Kx8 TMM2105BP-10)
+Floppy: NEC D765AC controller, SED9420C data separator
+Diskette Drive: 3.5" 720K floppy drive, standard 34 pin pinout, DS=0
+Keyboard Port: 180 degreen DIN5, AT protocol
+Parallel Port: 36 pin Centronics female
+Video Port 1: DIN8
+Video Port 2: DA15 Female
+Power Supply:
+Power connector pinout: 
+Fan: 12V 2 pin
+
+Planar connectors:
+CN 1: OP CONN (Option Card Connector)
+CN 2: ROS CONN (Font Rom Card)
+CN 3: FDD CONN (Floppy I/O connector)
+CN 4: OP PWR CONN (Option Card Power Connector)
+CN 5: Input Power
+CN 6: FDD PWR (Floppy 4 pin power connector)
+CN 7: FAN PWR
+CN 8: SEC KEY (Keylock: Pinout: UNLOCKED KEY LOCKED COMMON)
+CN 9: KEYBD CONN (180 degree DIN5 PC/AT)
+CN10: PRINTER CONN (Centronics 36 pin female)
+CN11: MONO CONN (DIN8 monochrome video)
+CN12: COLOR CONN (DA15F "color" monitor connector) (only displays 1 color)
+
+
+
+24x24 pixel Kanji font
+
